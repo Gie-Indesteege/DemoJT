@@ -1,1 +1,4 @@
+Welcome to the world of git for Java tooling.
+some more info ...
+
 new hello to everybody
